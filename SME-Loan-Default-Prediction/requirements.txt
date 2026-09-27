@@ -1,3 +1,5 @@
-pandas          → dataset load/clean/analysis
-numpy           → numerical operations
-matplotlib      → visualization
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
